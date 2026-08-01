@@ -1,6 +1,4 @@
 package com.worksphere.erp.main;
-
-import com.worksphere.erp.model.Employee;
 import com.worksphere.erp.service.EmployeeService;
 
 public class WorkSphereApplication {
